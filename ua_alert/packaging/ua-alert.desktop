@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=UA Alert
+Comment=Ukrainian air raid monitoring dashboard
+Exec=ua-alert
+Icon=ua-alert
+Terminal=false
+Categories=Utility;Security;
